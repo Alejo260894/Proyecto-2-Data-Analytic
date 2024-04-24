@@ -20,7 +20,7 @@ El propósito primordial de este proyecto es efectuar un análisis de datos rela
 
 Para llevar a cabo este proyecto, se siguieron los siguientes procesos:
 
-Recopilación de Datos: Se accedió a un conjunto de datos suministrado por la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, el cual proporcionaba información detallada sobre ho  micidios en accidentes de tránsito. Además, se obtuvo información geoespacial precisa sobre la ubicación de las cámaras de control vehicular en la ciudad, proveniente de fuentes confiables.
+Recopilación de Datos: Se accedió a un conjunto de datos suministrado por la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, el cual proporcionaba información detallada sobre ho  micidios en accidentes de tránsito.
 
 Preprocesamiento de Datos: Se procedió al preprocesamiento de los datos mediante el uso de la biblioteca Pandas para organizar y filtrar la información de manera adecuada. Para el conjunto de datos relacionado con las cámaras, se creó un archivo GeoJSON utilizando datos geográficos.
 
